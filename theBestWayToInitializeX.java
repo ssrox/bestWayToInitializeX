@@ -1,5 +1,3 @@
-package henu;
-
 import java.util.Random;
 
 public class theBestWayToInitializeX {
